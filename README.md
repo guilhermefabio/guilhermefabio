@@ -1,6 +1,6 @@
 I'm **Guilherme Vieira**, an **Automation and AI Engineer** driven by the intersection of **data, mathematics, and intelligent systems**.
 
-I design and develop **RPA architectures, data pipelines, and AI agents** using **Python, FastAPI, Docker, MongoDB, and RabbitMQ** — integrating automation with strong foundations in **supervised, unsupervised, and reinforcement learning models**.
+I design and develop **Machine Learning Models, data pipelines, and AI agents** using **Python, FastAPI, Docker, MongoDB, and RabbitMQ** — integrating automation with strong foundations in **supervised, unsupervised, and reinforcement learning models**.
 
 My focus is on applying **statistical and mathematical modeling** to automate complex business processes, enhance decision-making, and deliver measurable, data-driven results.
 
