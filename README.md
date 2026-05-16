@@ -10,8 +10,6 @@
   <a href="https://www.linkedin.com/in/guilherme-fabio-vieira/">
     <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation-RPA%20%7C%20APIs%20%7C%20Agents-2563EB?style=for-the-badge"/>
 </p>
 
 ---
