@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm **Guilherme Vieira**, an **Automation and AI Engineer** working at the intersection of **artificial intelligence, data architecture, mathematical modeling, and process automation**.
+I'm **Guilherme Vieira**, an **AI Engineer** working at the intersection of **artificial intelligence, data architecture, mathematical modeling, and process automation**.
 
 I design and develop solutions that transform complex business operations into **intelligent, scalable, and data-driven systems**.
 
