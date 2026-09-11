@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Guilherme Vieira 👋</h1>
 
 <p align="center">
-  <strong>Automation & AI Engineer</strong> focused on building intelligent systems that connect
+  <strong>AI Engineer</strong> focused on building intelligent systems that connect
   <br>
   data, business processes, APIs, documents, and machine learning models.
 </p>
